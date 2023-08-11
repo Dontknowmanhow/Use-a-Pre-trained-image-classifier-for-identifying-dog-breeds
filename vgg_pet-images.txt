@@ -1,0 +1,20 @@
+
+Using VGG model for image classification.
+
+n dogs img: 30
+n match: 35
+n correct dogs: 30
+n correct notdogs: 10
+n correct breed: 28
+n images: 40
+n notdogs img: 10
+pct_match: 87.5%
+pct_correct_dogs: 100.0%
+pct_correct_breed: 93.33333333333333%
+pct_correct_notdogs: 100.0%
+
+Incorrectly classified dog breeds:
+Image: Great_pyrenees_05367.jpg, Pet Label: great pyrenees, Classifier Label: kuvasz
+Image: Beagle_01170.jpg, Pet Label: beagle, Classifier Label: walker hound, walker foxhound
+
+** Total Elapsed Runtime: 00:01:26 **

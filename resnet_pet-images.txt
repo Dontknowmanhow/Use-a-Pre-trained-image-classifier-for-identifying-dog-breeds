@@ -1,0 +1,24 @@
+
+Using RESNET model for image classification.
+
+n dogs img: 30
+n match: 33
+n correct dogs: 30
+n correct notdogs: 9
+n correct breed: 27
+n images: 40
+n notdogs img: 10
+pct_match: 82.5%
+pct_correct_dogs: 100.0%
+pct_correct_breed: 90.0%
+pct_correct_notdogs: 90.0%
+
+Incorrectly classified dog images:
+Image: cat_01.jpg, Pet Label: cat, Classifier Label: norwegian elkhound, elkhound
+
+Incorrectly classified dog breeds:
+Image: Golden_retriever_05182.jpg, Pet Label: golden retriever, Classifier Label: leonberg
+Image: Great_pyrenees_05367.jpg, Pet Label: great pyrenees, Classifier Label: kuvasz
+Image: Beagle_01170.jpg, Pet Label: beagle, Classifier Label: walker hound, walker foxhound
+
+** Total Elapsed Runtime: 00:00:44 **
